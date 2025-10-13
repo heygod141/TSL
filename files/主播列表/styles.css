@@ -6446,3 +6446,13 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u342 {
+  border-width:0px;
+  position:absolute;
+  left:1800px;
+  top:292px;
+  width:46px;
+  height:300px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
