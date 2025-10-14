@@ -17,7 +17,7 @@
   position:absolute;
   z-index:0;
 }
-#u801 {
+#u727 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -25,7 +25,7 @@
   width:1920px;
   height:900px;
 }
-#u801_img {
+#u727_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,7 +33,7 @@
   width:1920px;
   height:900px;
 }
-#u801_ref {
+#u727_ref {
   border-width:0px;
   position:absolute;
   left:1912px;
@@ -41,7 +41,7 @@
   width:1px;
   height:1px;
 }
-#u802_div {
+#u728_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u802 {
+#u728 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -65,20 +65,20 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u802 .text {
+#u728 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u802_text {
+#u728_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u803_div {
+#u729_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -91,7 +91,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u803 {
+#u729 {
   border-width:0px;
   position:absolute;
   left:725px;
@@ -102,20 +102,20 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u803 .text {
+#u729 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u803_text {
+#u729_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u804_div {
+#u730_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -133,7 +133,7 @@
   font-size:16px;
   line-height:16px;
 }
-#u804 {
+#u730 {
   border-width:0px;
   position:absolute;
   left:745px;
@@ -149,19 +149,19 @@
   font-size:16px;
   line-height:16px;
 }
-#u804 .text {
+#u730 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u804_text {
+#u730_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u805 {
+#u731 {
   border-width:0px;
   position:absolute;
   left:1159px;
@@ -171,14 +171,14 @@
   display:flex;
   transition:none;
 }
-#u805 .text {
+#u731 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u805_img {
+#u731_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -186,13 +186,13 @@
   width:16px;
   height:16px;
 }
-#u805_text {
+#u731_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u806_div {
+#u732_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -207,7 +207,7 @@
   font-size:14px;
   line-height:24px;
 }
-#u806 {
+#u732 {
   border-width:0px;
   position:absolute;
   left:745px;
@@ -220,19 +220,19 @@
   font-size:14px;
   line-height:24px;
 }
-#u806 .text {
+#u732 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u806_text {
+#u732_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u807 {
+#u733 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -240,7 +240,7 @@
   width:0px;
   height:0px;
 }
-#u808_div {
+#u734_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -256,7 +256,7 @@
   color:#FFFFFF;
   line-height:12px;
 }
-#u808 {
+#u734 {
   border-width:0px;
   position:absolute;
   left:1105px;
@@ -270,19 +270,19 @@
   color:#FFFFFF;
   line-height:12px;
 }
-#u808 .text {
+#u734 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u808_text {
+#u734_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u809_div {
+#u735_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -301,7 +301,7 @@
   font-size:12px;
   line-height:12px;
 }
-#u809 {
+#u735 {
   border-width:0px;
   position:absolute;
   left:1025px;
@@ -314,14 +314,14 @@
   font-size:12px;
   line-height:12px;
 }
-#u809 .text {
+#u735 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u809_text {
+#u735_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
